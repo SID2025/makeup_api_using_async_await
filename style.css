@@ -1,0 +1,22 @@
+.product_img{
+    height: 100px;
+    float: left;
+    margin: 15px;
+}
+
+.product-container{
+    /* float: left;
+    padding: 5px; */
+    margin-bottom: 5px;
+}
+.sub-container{
+    text-align: left;
+    padding: 10px;
+}
+
+.sub-container h3{
+    margin-top: 5px;
+}
+#all_products{
+    margin-top: 15px;
+}
